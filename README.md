@@ -3,7 +3,7 @@ obscuraX Core staging tree 0.12.3
 
 `master:` [![Build Status](https://travis-ci.org/obscuraxpay/obscurax.svg?branch=master)](https://travis-ci.org/obscuraxpay/obscurax) `develop:` [![Build Status](https://travis-ci.org/obscuraxpay/obscurax.svg?branch=develop)](https://travis-ci.org/obscuraxpay/obscurax/branches)
 
-https://www.obscurax.org
+https://www.obscurax.com
 
 
 What is obscuraX?
@@ -16,7 +16,7 @@ are carried out collectively by the network. obscuraX Core is the name of the op
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the obscuraX Core software, see https://www.obscurax.org/get-obscurax/.
+the obscuraX Core software, see https://www.obscurax.com/.
 
 
 License
@@ -73,5 +73,3 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
-
-Translators should also follow the [forum](https://www.obscurax.org/forum/topic/obscurax-worldwide-collaboration.88/).
