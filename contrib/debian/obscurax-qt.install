@@ -1,0 +1,6 @@
+usr/local/bin/obscurax-qt usr/bin
+share/pixmaps/obscurax32.xpm usr/share/pixmaps
+share/pixmaps/obscurax16.xpm usr/share/pixmaps
+share/pixmaps/obscurax128.png usr/share/pixmaps
+debian/obscurax-qt.desktop usr/share/applications
+debian/obscurax-qt.protocol usr/share/kde4/services/

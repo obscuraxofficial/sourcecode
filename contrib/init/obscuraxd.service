@@ -1,0 +1,22 @@
+[Unit]
+Description=obscuraX's distributed currency daemon
+After=network.target
+
+[Service]
+User=obscuraxcore
+Group=obscuraxcore
+
+Type=forking
+PIDFile=/var/lib/obscuraxd/obscuraxd.pid
+ExecStart=/usr/bin/obscuraxd -daemon -pid=/var/lib/obscuraxd/obscuraxd.pid \
+-conf=/etc/obscuraxcore/obscurax.conf -datadir=/var/lib/obscuraxd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

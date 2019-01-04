@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/obscurax_bg.qm</file>
+        <file alias="de">locale/obscurax_de.qm</file>
+        <file alias="en">locale/obscurax_en.qm</file>
+        <file alias="es">locale/obscurax_es.qm</file>
+        <file alias="fi">locale/obscurax_fi.qm</file>
+        <file alias="fr">locale/obscurax_fr.qm</file>
+        <file alias="it">locale/obscurax_it.qm</file>
+        <file alias="ja">locale/obscurax_ja.qm</file>
+        <file alias="nl">locale/obscurax_nl.qm</file>
+        <file alias="pl">locale/obscurax_pl.qm</file>
+        <file alias="pt">locale/obscurax_pt.qm</file>
+        <file alias="ru">locale/obscurax_ru.qm</file>
+        <file alias="sk">locale/obscurax_sk.qm</file>
+        <file alias="sv">locale/obscurax_sv.qm</file>
+        <file alias="vi">locale/obscurax_vi.qm</file>
+        <file alias="zh_CN">locale/obscurax_zh_CN.qm</file>
+        <file alias="zh_TW">locale/obscurax_zh_TW.qm</file>
+    </qresource>
+</RCC>

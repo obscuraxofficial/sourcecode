@@ -1,0 +1,11 @@
+[Protocol]
+exec=obscurax-qt '%u'
+protocol=obscurax
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
