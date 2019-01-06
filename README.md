@@ -1,4 +1,4 @@
-obscuraX Core staging tree 0.12.3
+obscuraX Core version 0.12.3
 ===============================
 
 `master:` [![Build Status](https://travis-ci.org/obscuraxpay/obscurax.svg?branch=master)](https://travis-ci.org/obscuraxpay/obscurax) `develop:` [![Build Status](https://travis-ci.org/obscuraxpay/obscurax.svg?branch=develop)](https://travis-ci.org/obscuraxpay/obscurax/branches)
