@@ -9,10 +9,7 @@ https://www.obscurax.com
 What is obscuraX?
 ----------------
 
-obscuraX is an experimental digital currency that enables anonymous, instant
-payments to anyone, anywhere in the world. obscuraX uses peer-to-peer technology
-to operate with no central authority: managing transactions and issuing money
-are carried out collectively by the network. obscuraX Core is the name of the open
+obscuraX is an untraceable x11 token that is Secured by nodes hidden behind the .onion (TOR) routing system. ObscuraX is TOR compatible featuring dedicated nodes that facilitate instant confirmation payments, private sending, masternode reward systems, and Multiple party transaction mixing. obscuraX Core is the name of the open
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
@@ -93,7 +90,7 @@ Nad4xtgdwf7c5y45ruy5MWtVY43zYMCvva
 
 
 
----VPS SERVER---
+***---VPS SERVER---***
 Install Ubuntu Server 18.04 on a VPS.
 
 Update your Ubuntu machine.
