@@ -69,7 +69,7 @@ not straightforward.
 ***Masternode Setup Guide***
 
 
----GUI WALLET---
+***---GUI WALLET---***
 
 1. Open your wallet and wait until the wallet has fully synced.
 
